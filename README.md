@@ -10,12 +10,12 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/rafaelq80/aulas_java_t82?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/ThiagoTasseli/conta-bancaria-java?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/ThiagoTasseli/conta-bancaria-java?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/ThiagoTasseli/conta-bancaria-java?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/ThiagoTasseli/conta-bancaria-java?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/ThiagoTasseli/conta-bancaria-java?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/ThiagoTasseli/conta-bancaria-java?style=flat-square" />
 </div>
 
 ---
@@ -128,7 +128,7 @@ Cada desafio foi uma oportunidade de aprendizado prático! 🚀
 ### 1️⃣ Importar
 
 ```bash
-git clone https://github.com/rafaelq80/conta_bancaria_t82.git
+git clone https://github.com/ThiagoTasseli/conta-bancaria-java.git
 ```
 
 - File → Import → General → Existing Projects into Workspace
@@ -155,6 +155,6 @@ Este repositório é um projeto educacional, mas qualquer colaboração é muito
 
 ## 📬 Contato
 
-Desenvolvido por [**Thiago Tasseli**](https://github.com/tasselii)
+Desenvolvido por [**Thiago Tasseli**](https://github.com/ThiagoTasseli)
 
 Fique à vontade para tirar dúvidas, dar sugestões ou contribuir! 😄
